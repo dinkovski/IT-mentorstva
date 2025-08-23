@@ -10,6 +10,9 @@ height=175
 print(age,height)
 
 # bool - boolean - true or false
+ # zdravo svima, test
+ # jos jedan test za github desktop
+ 
 
 #vezba
 program_name = "Python"
