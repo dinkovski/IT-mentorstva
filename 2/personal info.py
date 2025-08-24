@@ -2,6 +2,10 @@
 person = {
     "name": "Stf",
     "last_Name": "Milo",
-    "age": 31
+    "age": 31,
+    "hobbies": ["birdwatching", "movies", "basketball"]
 }
-print(person["name"])
+print(person["age"])
+print(person["hobbies"][2])
+
+
